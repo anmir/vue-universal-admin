@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  name: 'home-view'  
+  name: 'home-view'
 }
 </script>
 
