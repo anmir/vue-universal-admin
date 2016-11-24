@@ -22,7 +22,7 @@
 </template>
 
 <style lang="stylus">
-body
+/*body
   font-family Roboto, Helvetica, sans-serif
   font-size 15px
   background-color lighten(#eceef1, 30%)
@@ -98,5 +98,5 @@ a
     a
       margin-right 1em
     .github
-      display none
+      display none*/
 </style>
